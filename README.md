@@ -67,3 +67,8 @@ Hacktoberfest Classroom Project 2019
 > coding is easy,when you are earning swags for them!!!
 ---
 
+### dinithi
+[dinithiMW](https://github.com/dinithiMW/)
+> Try your best,You can coading...
+---
+
